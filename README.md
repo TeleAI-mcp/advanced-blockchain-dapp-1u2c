@@ -1,2 +1,3 @@
-# advanced-blockchain-dapp-1u2c
-Automated issue comment bot repository
+# Advanced Blockchain Dapp 1U2C
+
+Automated issue comment bot repository.
